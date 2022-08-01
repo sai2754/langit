@@ -1,0 +1,37 @@
+
+
+https://classroom.google.com/c/NDk0OTgxMzkx?cjc=qu3gh5m
+
+HK NOTES-https://bit.ly/hknotes
+
+
+https://drive.google.com/folderview?id=16Sfv_0kNEJsbAMZ9VAbnBZujGTOdVU7l
+https://drive.google.com/folderview?id=16Sfv_0kNEJsbAMZ9VAbnBZujGTOdVU7l
+
+Interaction of NASSCOM team with Full-Stack Students on "2nd Feb @3pm"
+webinar link:  zoom.us/j/88061018073
+
+Note:
+1. Advantages of registring on fsprime portal.
+2. Eligibility criterion  & other details pertaining to Fee reimbursement
+3. Advantages of talking the skill assessment.
+4. How to register and take the assessment
+? ? ? ? 
+
+https://drive.google.com/file/d/13A5ZYuAcYju0gZjEnlTdN09H43Sl4lLx/view
+
+
+karthikbbbb
+devansh
+https://docs.oracle.com/javase/8/docs/api/java/lang/Comparable.html
+
+
+
+/*if(pQty==prod.pQty) return 0;
+	else if(pQty>prod.pQty) return 1;
+	else return -1;*/
+	
+
+All ameerpet notes:
+
+https://drive.google.com/drive/folders/1iciKFwBAlxtTr56HgSq2M8AA3PRifoRn
